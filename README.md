@@ -1,7 +1,7 @@
 # 🛠️Cybersecurity-Web-Tools
 This repository contains a list of links to different web tools useful for cybersecurity, it is organized by categories for greater accessibility.
 
-## 📄Table of Contents
+## 📋Table of Contents
 - [🔍URL Scanning](#url-scanning)
 - [🔎IP Scanning](#ip-scanning)
 - [📝File Scanning](#file-scanning)
@@ -14,10 +14,10 @@ This repository contains a list of links to different web tools useful for cyber
 
 ## 🔍URL Scanning
 
-* **[Urlscan.io](https://urlscan.io/)**: Analyzes websites to detect malicious content, such as malware or phishing.
 * **[VirusTotal](https://www.virustotal.com/)**: Scans URLs and files for viruses and other threats using multiple antivirus engines. 
-* **[URLVoid](https://www.urlvoid.com/)**: Checks if a URL has been reported as malicious by various sources.
 * **[Talos Intelligence](https://talosintelligence.com/)**: Offers information about online threats, including URL reputation.
+* **[URLVoid](https://www.urlvoid.com/)**: Checks if a URL has been reported as malicious by various sources.
+* **[Urlscan.io](https://urlscan.io/)**: Analyzes websites to detect malicious content, such as malware or phishing.
 * **[Google Safe Browsing Site Status](https://transparencyreport.google.com/safe-browsing/search](https://transparencyreport.google.com/safe-browsing/search))**: Allows you to check if a website has been marked as unsafe by Google. 
 
 ## 🔎IP Scanning
@@ -40,7 +40,7 @@ This repository contains a list of links to different web tools useful for cyber
 * **[Any.run](https://app.any.run/)**: Allows you to run files and analyze their behavior in an interactive virtual environment.
 * **[Joe Sandbox](https://www.joesandbox.com/)**: Analyzes files and URLs in a sandbox environment and generates detailed reports.
 
-## 🔐Password Scanning
+## Password Scanning
 
 * **[Have I Been Pwned](https://haveibeenpwned.com/)**: Checks if a password or email address has been compromised in a data breach.
 * **[Password checker Kaspersky](https://password.kaspersky.com/)**: Checks the strength of a password and if it has been compromised.
