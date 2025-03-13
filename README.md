@@ -13,10 +13,10 @@ This repository contains a list of links to different web tools useful for cyber
 - [📧Email Protection](#email-protection)
 - [🌐Web Security](#web-security)
 - ### [🐍Red Team](#red-team)
-- [🎯 Web Enumeration and Reconnaissance](#-web-enumeration-and-reconnaissance)
-- [🧩 Data Analysis and Transformation Tools](#-data-analysis-and-transformation-tools)
+- [🎯 Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
+- [🧩 Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
 - [🔐 Web Security Configuration](web-security-configuration)
-- [💥Exploits/Risks](#-exploitsrisks)
+- [💥Exploits/Risks](#exploitsrisks)
 - [🦠Malware Samples](#malware-samples)
 ---
 
@@ -104,7 +104,7 @@ This repository contains a list of links to different web tools useful for cyber
 
 ---
 
-## 📬Contact
+# 📬Contact
 If you have any questions, please feel free to contact me at:<br>
 🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)<br>
 💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](www.linkedin.com/in/josé-pablo-mena-villalobos)<br>
