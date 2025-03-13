@@ -4,7 +4,7 @@ This repository contains a list of links to different web tools useful for cyber
 ---
 
 ## 📋Table of Contents
-- ### [🛡️Blue Team](#blue-team)
+- ### [🛡️Blue Team](#%EF%B8%8Fblue-team-1)
 - [🔍URL Scanning](#url-scanning)
 - [🔎IP Scanning](#ip-scanning)
 - [📝File Scanning](#file-scanning)
@@ -12,7 +12,7 @@ This repository contains a list of links to different web tools useful for cyber
 - [🔐Password Scanning](#password-scanning)
 - [📧Email Protection](#email-protection)
 - [🌐Web Security](#web-security)
-- ### [🐍Red Team](#red-team)
+- ### [🐍Red Team](#red-team-1)
 - [🎯 Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
 - [🧩 Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
 - [🔐 Web Security Configuration](web-security-configuration)
