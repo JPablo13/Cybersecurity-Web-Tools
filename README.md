@@ -1,16 +1,26 @@
 # 🛠️Cybersecurity-Web-Tools
 This repository contains a list of links to different web tools useful for cybersecurity, it is organized by categories for greater accessibility.
 
+---
+
 ## 📋Table of Contents
+- ### [🛡️Blue Team](#blue-team)
 - [🔍URL Scanning](#url-scanning)
 - [🔎IP Scanning](#ip-scanning)
 - [📝File Scanning](#file-scanning)
 - [📦Sandboxing](#sandboxing)
 - [🔐Password Scanning](#password-scanning)
 - [📧Email Protection](#email-protection)
-- [💥Malware Samples](#malware-samples)
-- [🎯Exploits/Risks](#exploitsrisks)
 - [🌐Web Security](#web-security)
+- ### [🐍Red Team](#red-team)
+- [🎯 Web Enumeration and Reconnaissance](#-web-enumeration-and-reconnaissance)
+- [🧩 Data Analysis and Transformation Tools](#-data-analysis-and-transformation-tools)
+- [🔐 Web Security Configuration](web-security-configuration)
+- [💥Exploits/Risks](#-exploitsrisks)
+- [🦠Malware Samples](#malware-samples)
+---
+
+# 🛡️Blue Team
 
 ## 🔍URL Scanning
 
@@ -18,7 +28,7 @@ This repository contains a list of links to different web tools useful for cyber
 * **[Talos Intelligence](https://talosintelligence.com/)**: Offers information about online threats, including URL reputation.
 * **[URLVoid](https://www.urlvoid.com/)**: Checks if a URL has been reported as malicious by various sources.
 * **[Urlscan.io](https://urlscan.io/)**: Analyzes websites to detect malicious content, such as malware or phishing.
-* **[Google Safe Browsing Site Status](https://transparencyreport.google.com/safe-browsing/search](https://transparencyreport.google.com/safe-browsing/search))**: Allows you to check if a website has been marked as unsafe by Google. 
+* **[Google Safe Browsing Site Status](https://transparencyreport.google.com/safe-browsing/search)**: Allows you to check if a website has been marked as unsafe by Google. 
 
 ## 🔎IP Scanning
 
@@ -34,6 +44,7 @@ This repository contains a list of links to different web tools useful for cyber
 * **[MetaDefender](https://metadefender.opswat.com/)**: Analyzes files with multiple antivirus engines and threat detection technologies.
 * **[Kaspersky Threat Intelligence](https://opentip.kaspersky.com/)**: Offers information about threats and malware, including file analysis.
 * **[Hybrid Analysis](https://www.hybrid-analysis.com/)**: Analyzes files in a sandbox environment and provides detailed reports on their behavior.
+* **[TinEye](https://tineye.com/)**: Reverse image search engine, useful for detecting unauthorized use of images.
 
 ## 📦Sandboxing
 
@@ -51,24 +62,45 @@ This repository contains a list of links to different web tools useful for cyber
 * **[10MinuteMail](https://10minutemail.com/)**: Provides temporary email addresses to protect privacy.
 * **[Spamhaus](https://www.spamhaus.org/)**: Offers spam block lists and other tools to combat unwanted email.
 
-## 💥Malware Samples
-
-* **[MalwareBazaar](https://bazaar.abuse.ch/)**: Repository of malware samples for analysis.
-* **[ThreatFox](https://threatfox.abuse.ch/)**: Platform for sharing threat indicators, including malware samples.
-
-## 🎯Exploits/Risks
-
-* **[Exploit Database](https://www.exploit-db.com/)**: Database of exploits and security vulnerabilities.
-* **[OWASP Top 10](https://owasp.org/www-project-top-ten/)**: List of the 10 most critical web vulnerabilities.
-* **[Mitre ATT&CK](https://attack.mitre.org/)**: Framework that describes the tactics and techniques used by attackers.
-* **[CVE](https://cve.mitre.org/)**: Catalog of known security vulnerabilities.
-* **[Shodan](https://www.shodan.io/)**: Search engine for internet-connected devices, useful for identifying potential vulnerabilities.
-* **[TinEye](https://tineye.com/)**: Reverse image search engine, useful for detecting unauthorized use of images.
-
 ## 🌐Web Security
 
 * **[EFF (Electronic Frontier Foundation)](https://www.eff.org)**: Organization that defends digital rights and online privacy.
 * **[BrowserLeaks](https://browserleaks.com/)**: Website that shows the information that websites can collect about your browser.
+
+---
+
+# 🐍Red Team
+
+## 🎯Web Enumeration and Reconnaissance
+
+- **[Subdomain Finder](https://subdomainfinder.c99.nl/)**: Enumerates the public subdomains of a target domain.
+- **[Shodan](https://www.shodan.io/)**: Search engine for devices and services connected to the internet.
+- **[Censys Search](https://search.censys.io/)**: Provides detailed information on certificates, open ports, and exposed services.
+- **[BuiltWith](https://builtwith.com/)**: Discovers the technologies behind a specific website.
+- **[GTFOBins](https://gtfobins.github.io/)**: Provides privilege escalation and binary abuse techniques on Unix/Linux systems.
+
+## 🧩Data Analysis and Transformation Tools
+
+- **[CyberChef](https://gchq.github.io/CyberChef/)**: It is a powerful web-based tool that enables data encryption, encoding, compression, analysis, and transformation.
+- **[Regex101](https://regex101.com/)**: It is an online tool for testing and debugging regular expressions with instant feedback.
+
+## 🔐Web Security Configuration
+
+- **[SSL Labs Test](https://www.ssllabs.com/ssltest/)**: Comprehensive analysis of a web server's SSL/TLS configuration.
+- **[Observatory by Mozilla](https://observatory.mozilla.org/)**: Analyzes website security configurations and provides practical recommendations.
+- **[Security Headers](https://securityheaders.com/)**: Analyzes the security HTTP headers of any website.
+
+## 💥Exploits/Risks
+
+- **[Exploit Database](https://www.exploit-db.com/)**: Database of exploits and security vulnerabilities.
+- **[OWASP Top 10](https://owasp.org/www-project-top-ten/)**: List of the 10 most critical web vulnerabilities.
+- **[Mitre ATT&CK](https://attack.mitre.org/)**: Framework describing the tactics and techniques used by attackers.
+- **[CVE](https://cve.mitre.org/)**: Catalog of known security vulnerabilities.
+
+## 🦠Malware Samples
+
+* **[MalwareBazaar](https://bazaar.abuse.ch/)**: Repository of malware samples for analysis.
+* **[ThreatFox](https://threatfox.abuse.ch/)**: Platform for sharing threat indicators, including malware samples.
 
 ---
 
