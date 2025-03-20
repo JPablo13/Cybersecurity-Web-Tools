@@ -105,7 +105,7 @@ This repository contains a list of links to different web tools useful for cyber
 ---
 
 # 📬Contact
-If you have any questions, please feel free to contact me at:<br>
-🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)<br>
-💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](www.linkedin.com/in/josé-pablo-mena-villalobos)<br>
-📧 **Email**: pablo13villalobos@gmail.com
+If you have any questions, please feel free to contact me at:  
+🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)  
+💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](www.linkedin.com/in/josé-pablo-mena-villalobos)  
+📧 **Email**: pablo13villalobos@gmail.com  
