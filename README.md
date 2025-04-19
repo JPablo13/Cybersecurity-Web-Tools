@@ -16,7 +16,7 @@ This repository contains a list of links to different web tools useful for cyber
 - [🎯 Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
 - [🧩 Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
 - [🔑Token & Auth Analysis Tools](#token--auth-analysis-tools)
-- [🔐 Web Security Configuration](web-security-configuration)
+- [🔐 Web Security Configuration](#web-security-configuration)
 - [💥Exploits/Risks](#exploitsrisks)
 - [🦠Malware Samples](#malware-samples)
 ---
