@@ -12,6 +12,7 @@ This repository contains a list of links to different web tools useful for cyber
 - [🔐Password Scanning](#password-scanning)
 - [📧Email Protection](#email-protection)
 - [🌐Web Security](#web-security)
+  
 ### [🐍Red Team](#red-team-1)
 - [🎯 Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
 - [🧩 Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
@@ -52,7 +53,7 @@ This repository contains a list of links to different web tools useful for cyber
 * **[Any.run](https://app.any.run/)**: Allows you to run files and analyze their behavior in an interactive virtual environment.
 * **[Joe Sandbox](https://www.joesandbox.com/)**: Analyzes files and URLs in a sandbox environment and generates detailed reports.
 
-## Password Scanning
+## 🔐Password Scanning
 
 * **[Have I Been Pwned](https://haveibeenpwned.com/)**: Checks if a password or email address has been compromised in a data breach.
 * **[Password checker Kaspersky](https://password.kaspersky.com/)**: Checks the strength of a password and if it has been compromised.
