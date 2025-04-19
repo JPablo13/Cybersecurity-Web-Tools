@@ -15,6 +15,7 @@ This repository contains a list of links to different web tools useful for cyber
 ### [🐍Red Team](#red-team-1)
 - [🎯 Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
 - [🧩 Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
+- [🔑Token & Auth Analysis Tools](#token--auth-analysis-tools)
 - [🔐 Web Security Configuration](web-security-configuration)
 - [💥Exploits/Risks](#exploitsrisks)
 - [🦠Malware Samples](#malware-samples)
@@ -84,6 +85,12 @@ This repository contains a list of links to different web tools useful for cyber
 - **[CyberChef](https://gchq.github.io/CyberChef/)**: It is a powerful web-based tool that enables data encryption, encoding, compression, analysis, and transformation.
 - **[Regex101](https://regex101.com/)**: It is an online tool for testing and debugging regular expressions with instant feedback.
 
+## 🔑Token & Auth Analysis Tools
+- **[JWT.IO](https://jwt.io/)**: Decodes, verifies, and generates JSON web tokens.
+- **[Token Inspector](https://token.dev/)**: Platform for inspecting and visualizing JWT, JWE, JWK and JWS tokens.
+- **[Base64 Decode & Encode](https://www.base64decode.org/)**: Simple tool to decode or encode base64.
+
+
 ## 🔐Web Security Configuration
 
 - **[SSL Labs Test](https://www.ssllabs.com/ssltest/)**: Comprehensive analysis of a web server's SSL/TLS configuration.
@@ -101,6 +108,7 @@ This repository contains a list of links to different web tools useful for cyber
 
 * **[MalwareBazaar](https://bazaar.abuse.ch/)**: Repository of malware samples for analysis.
 * **[ThreatFox](https://threatfox.abuse.ch/)**: Platform for sharing threat indicators, including malware samples.
+
 
 ---
 
