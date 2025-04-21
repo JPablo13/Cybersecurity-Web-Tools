@@ -10,7 +10,7 @@ This repository contains a list of links to different web tools useful for cyber
 - [📝File Scanning](#file-scanning)
 - [📦Sandboxing](#sandboxing)
 - [🔐Password Scanning](#password-scanning)
-- [🛡️Vulnerability Management Tools](#-vulnerability-management-tools)
+- [🛡️Vulnerability Management Tools](#%EF%B8%8Fvulnerability-management-tools)
 - [📧Email Protection](#email-protection)
 - [🌐Web Security](#web-security)
   
@@ -61,7 +61,7 @@ This repository contains a list of links to different web tools useful for cyber
 * **[Password checker Kaspersky](https://password.kaspersky.com/)**: Checks the strength of a password and if it has been compromised.
 * **[Dehashed](https://dehashed.com/)**: Search engine for leaked data, helps verify the exposure of sensitive information.
 
-## 🛡️ Vulnerability Management Tools
+## 🛡️Vulnerability Management Tools
 - **[VulnCheck Tools](https://vulncheck.com/tools)**: Fast CVE lookups and exploit data.
 - **[CVE Details](https://www.cvedetails.com/)**: Comprehensive CVE database with vendor/product filters.
 - **[NVD – National Vulnerability Database](https://nvd.nist.gov/)**: Official U.S. government source for CVEs and severity metrics.
