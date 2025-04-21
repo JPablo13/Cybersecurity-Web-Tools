@@ -16,7 +16,7 @@ This repository contains a list of links to different web tools useful for cyber
   
 ### [🐍Red Team](#red-team-1)
 - [🎯Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
-- [📚Knowledge Bases & Cheatsheets](#-knowledge-bases--cheatsheets)
+- [📚Knowledge Bases & Cheatsheets](#knowledge-bases--cheatsheets)
 - [🧩Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
 - [🔑Token & Auth Analysis Tools](#token--auth-analysis-tools)
 - [🔐Web Security Configuration](#web-security-configuration)
