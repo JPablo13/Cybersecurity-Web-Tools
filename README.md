@@ -11,6 +11,7 @@ This repository contains a list of links to different web tools useful for cyber
 - [📦Sandboxing](#sandboxing)
 - [🔐Password Scanning](#password-scanning)
 - [🛡️Vulnerability Management Tools](#%EF%B8%8Fvulnerability-management-tools)
+- [🦠Malware Samples](#malware-samples)
 - [📧Email Protection](#email-protection)
 - [🌐Web Security](#web-security)
   
@@ -20,8 +21,8 @@ This repository contains a list of links to different web tools useful for cyber
 - [🧩Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
 - [🔑Token & Auth Analysis Tools](#token--auth-analysis-tools)
 - [🔐Web Security Configuration](#web-security-configuration)
-- [💥Exploits/Risks](#exploitsrisks)
-- [🦠Malware Samples](#malware-samples)
+- [💥Exploits/Risks](#exploits-and-risks)
+
 ---
 
 # 🛡️Blue Team
@@ -66,6 +67,11 @@ This repository contains a list of links to different web tools useful for cyber
 - **[CVE Details](https://www.cvedetails.com/)**: Comprehensive CVE database with vendor/product filters.
 - **[NVD – National Vulnerability Database](https://nvd.nist.gov/)**: Official U.S. government source for CVEs and severity metrics.
 - **[Vulners](https://vulners.com/)**: Aggregated vulnerability intelligence and exploit database.
+
+## 🦠Malware Samples
+
+* **[MalwareBazaar](https://bazaar.abuse.ch/)**: Repository of malware samples for analysis.
+* **[ThreatFox](https://threatfox.abuse.ch/)**: Platform for sharing threat indicators, including malware samples.
 
 ## 📧Email Protection
 
@@ -113,18 +119,12 @@ This repository contains a list of links to different web tools useful for cyber
 - **[Observatory by Mozilla](https://observatory.mozilla.org/)**: Analyzes website security configurations and provides practical recommendations.
 - **[Security Headers](https://securityheaders.com/)**: Analyzes the security HTTP headers of any website.
 
-## 💥Exploits/Risks
+## 💥Exploits and Risks
 
 - **[Exploit Database](https://www.exploit-db.com/)**: Database of exploits and security vulnerabilities.
 - **[OWASP Top 10](https://owasp.org/www-project-top-ten/)**: List of the 10 most critical web vulnerabilities.
 - **[Mitre ATT&CK](https://attack.mitre.org/)**: Framework describing the tactics and techniques used by attackers.
 - **[CVE](https://cve.mitre.org/)**: Catalog of known security vulnerabilities.
-
-## 🦠Malware Samples
-
-* **[MalwareBazaar](https://bazaar.abuse.ch/)**: Repository of malware samples for analysis.
-* **[ThreatFox](https://threatfox.abuse.ch/)**: Platform for sharing threat indicators, including malware samples.
-
 
 ---
 
@@ -133,3 +133,4 @@ If you have any questions, please feel free to contact me at:
 🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)  
 💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](https://www.linkedin.com/in/jpablo-villalobos/)  
 📧 **Email**: pablo13villalobos@gmail.com  
+📝**Medium**: [https://medium.com/@pablo13villalobos](https://medium.com/@pablo13villalobos)
