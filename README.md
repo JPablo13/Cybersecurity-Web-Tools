@@ -35,7 +35,7 @@ This repository contains a list of links to different web tools useful for cyber
 ## 🔎IP Scanning
 
 * **[AbuseIPDB](https://www.abuseipdb.com/)**: Collects reports of abusive IP addresses, such as those that send spam or perform attacks.
-* **[IPVoid](https://www.ipvoid.com/)**: Provides information about the reputation of an IP address, including whether it has been reported as malicious.
+* **[IPVoid](https://www.ipvoid.com/)**: Provides information about the reputation of an IP address, even if it is reported as malicious.
 * **[Hurricane Electric](https://bgp.he.net/)**: Offers tools to analyze IP address routing information.
 * **[DNSlytics](https://dnslytics.com/)**: Analyzes DNS records to obtain information about the infrastructure of a domain or IP address.
 
