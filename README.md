@@ -21,7 +21,7 @@ This repository contains a list of links to different web tools useful for cyber
 - [🧩Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
 - [🔑Token & Auth Analysis Tools](#token--auth-analysis-tools)
 - [🔐Web Security Configuration](#web-security-configuration)
-- [💥Exploits/Risks](#exploits-and-risks)
+- [💥Exploits and Risks](#exploits-and-risks)
 
 ---
 
@@ -119,7 +119,7 @@ This repository contains a list of links to different web tools useful for cyber
 - **[Observatory by Mozilla](https://observatory.mozilla.org/)**: Analyzes website security configurations and provides practical recommendations.
 - **[Security Headers](https://securityheaders.com/)**: Analyzes the security HTTP headers of any website.
 
-## 💥Exploits and Risks
+## 💥Exploits and Vulnerabilities
 
 - **[Exploit Database](https://www.exploit-db.com/)**: Database of exploits and security vulnerabilities.
 - **[OWASP Top 10](https://owasp.org/www-project-top-ten/)**: List of the 10 most critical web vulnerabilities.
