@@ -81,9 +81,17 @@ This repository contains a list of links to different web tools useful for cyber
 - **[BuiltWith](https://builtwith.com/)**: Discovers the technologies behind a specific website.
 - **[GTFOBins](https://gtfobins.github.io/)**: Provides privilege escalation and binary abuse techniques on Unix/Linux systems.
 
+## 📚 Knowledge Bases & Cheatsheets
+
+- **[GTFOBins](https://gtfobins.github.io/)**: Provides privilege escalation and binary abuse techniques on Unix/Linux systems.
+- **[LOLBAS](https://lolbas-project.github.io/)**: Catalog of legitimate Windows binaries that can be abused for offensive purposes.
+- **[HackTricks](https://book.hacktricks.wiki/en/index.html)**: Practical knowledge base for pentesting, privilege escalation, and CTFs.
+- **[Pentestmonkey](https://pentestmonkey.net/)**: A collection of practical tips, payloads, and cheat sheets for pentesters, including reverse shells and enumeration guides.
+- **[PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)**: Collection of tested payloads and techniques for web, network, and privilege escalation attacks.
+- 
 ## 🧩Data Analysis and Transformation Tools
 
-- **[CyberChef](https://gchq.github.io/CyberChef/)**: Powerful web-based tool that enables data encryption, encoding, compression, analysis and transformation.
+- **[CyberChef](https://gchq.github.io/CyberChef/)**: Versatile web tool for data encoding, encryption, and transformation.
 - **[Regex101](https://regex101.com/)**: It is an online tool for testing and debugging regular expressions with instant feedback.
 
 ## 🔑Token & Auth Analysis Tools
