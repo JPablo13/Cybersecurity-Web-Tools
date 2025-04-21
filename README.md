@@ -83,7 +83,7 @@ This repository contains a list of links to different web tools useful for cyber
 
 ## 🧩Data Analysis and Transformation Tools
 
-- **[CyberChef](https://gchq.github.io/CyberChef/)**: It is a powerful web-based tool that enables data encryption, encoding, compression, analysis, and transformation.
+- **[CyberChef](https://gchq.github.io/CyberChef/)**: Powerful web-based tool that enables data encryption, encoding, compression, analysis and transformation.
 - **[Regex101](https://regex101.com/)**: It is an online tool for testing and debugging regular expressions with instant feedback.
 
 ## 🔑Token & Auth Analysis Tools
