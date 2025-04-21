@@ -10,14 +10,16 @@ This repository contains a list of links to different web tools useful for cyber
 - [📝File Scanning](#file-scanning)
 - [📦Sandboxing](#sandboxing)
 - [🔐Password Scanning](#password-scanning)
+- [🛡️Vulnerability Management Tools](#-vulnerability-management-tools)
 - [📧Email Protection](#email-protection)
 - [🌐Web Security](#web-security)
   
 ### [🐍Red Team](#red-team-1)
-- [🎯 Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
-- [🧩 Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
+- [🎯Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
+- [📚Knowledge Bases & Cheatsheets](#-knowledge-bases--cheatsheets)
+- [🧩Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
 - [🔑Token & Auth Analysis Tools](#token--auth-analysis-tools)
-- [🔐 Web Security Configuration](#web-security-configuration)
+- [🔐Web Security Configuration](#web-security-configuration)
 - [💥Exploits/Risks](#exploitsrisks)
 - [🦠Malware Samples](#malware-samples)
 ---
@@ -59,6 +61,12 @@ This repository contains a list of links to different web tools useful for cyber
 * **[Password checker Kaspersky](https://password.kaspersky.com/)**: Checks the strength of a password and if it has been compromised.
 * **[Dehashed](https://dehashed.com/)**: Search engine for leaked data, helps verify the exposure of sensitive information.
 
+## 🛡️ Vulnerability Management Tools
+- **[VulnCheck Tools](https://vulncheck.com/tools)**: Fast CVE lookups and exploit data.
+- **[CVE Details](https://www.cvedetails.com/)**: Comprehensive CVE database with vendor/product filters.
+- **[NVD – National Vulnerability Database](https://nvd.nist.gov/)**: Official U.S. government source for CVEs and severity metrics.
+- **[Vulners](https://vulners.com/)**: Aggregated vulnerability intelligence and exploit database.
+
 ## 📧Email Protection
 
 * **[10MinuteMail](https://10minutemail.com/)**: Provides temporary email addresses to protect privacy.
@@ -81,14 +89,14 @@ This repository contains a list of links to different web tools useful for cyber
 - **[BuiltWith](https://builtwith.com/)**: Discovers the technologies behind a specific website.
 - **[GTFOBins](https://gtfobins.github.io/)**: Provides privilege escalation and binary abuse techniques on Unix/Linux systems.
 
-## 📚 Knowledge Bases & Cheatsheets
+## 📚Knowledge Bases & Cheatsheets
 
 - **[GTFOBins](https://gtfobins.github.io/)**: Provides privilege escalation and binary abuse techniques on Unix/Linux systems.
 - **[LOLBAS](https://lolbas-project.github.io/)**: Catalog of legitimate Windows binaries that can be abused for offensive purposes.
 - **[HackTricks](https://book.hacktricks.wiki/en/index.html)**: Practical knowledge base for pentesting, privilege escalation, and CTFs.
-- **[Pentestmonkey](https://pentestmonkey.net/)**: A collection of practical tips, payloads, and cheat sheets for pentesters, including reverse shells and enumeration guides.
-- **[PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)**: Collection of tested payloads and techniques for web, network, and privilege escalation attacks.
-- 
+- **[Pentestmonkey](https://pentestmonkey.net/)**: Tips, payloads, and cheat sheets for web exploitation and post-exploitation.
+- **[PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)**: Collection of payloads and techniques for web, network, and privilege escalation attacks.
+  
 ## 🧩Data Analysis and Transformation Tools
 
 - **[CyberChef](https://gchq.github.io/CyberChef/)**: Versatile web tool for data encoding, encryption, and transformation.
@@ -98,7 +106,6 @@ This repository contains a list of links to different web tools useful for cyber
 - **[JWT.IO](https://jwt.io/)**: Decodes, verifies, and generates JSON web tokens.
 - **[Token Inspector](https://token.dev/)**: Platform for inspecting and visualizing JWT, JWE, JWK and JWS tokens.
 - **[Base64 Decode & Encode](https://www.base64decode.org/)**: Simple tool to decode or encode base64.
-
 
 ## 🔐Web Security Configuration
 
