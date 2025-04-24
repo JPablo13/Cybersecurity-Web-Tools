@@ -15,14 +15,15 @@ This repository contains a list of links to different web tools useful for cyber
 - [📧Email Protection](#email-protection)
 - [🌐Web Security](#web-security)
   
-### [🐍Red Team](#red-team-1)
+### [🐉Red Team](#red-team-1)
 - [🎯Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
 - [📚Knowledge Bases & Cheatsheets](#knowledge-bases--cheatsheets)
-- [🧩Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
+- [🃏Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
 - [🔑Token & Auth Analysis Tools](#token--auth-analysis-tools)
 - [🔐Web Security Configuration](#web-security-configuration)
 - [💥Exploits and Vulnerabilities](#exploits-and-vulnerabilities)
 
+### 🧩 Browser Extensions 
 ---
 
 # 🛡️Blue Team
@@ -85,7 +86,7 @@ This repository contains a list of links to different web tools useful for cyber
 
 ---
 
-# 🐍Red Team
+# 🐉Red Team
 
 ## 🎯Web Enumeration and Reconnaissance
 
@@ -103,7 +104,7 @@ This repository contains a list of links to different web tools useful for cyber
 - **[Pentestmonkey](https://pentestmonkey.net/)**: Tips, payloads, and cheat sheets for web exploitation and post-exploitation.
 - **[PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)**: Collection of payloads and techniques for web, network, and privilege escalation attacks.
   
-## 🧩Data Analysis and Transformation Tools
+## 🃏Data Analysis and Transformation Tools
 
 - **[CyberChef](https://gchq.github.io/CyberChef/)**: Versatile web tool for data encoding, encryption, and transformation.
 - **[Regex101](https://regex101.com/)**: It is an online tool for testing and debugging regular expressions with instant feedback.
@@ -125,6 +126,10 @@ This repository contains a list of links to different web tools useful for cyber
 - **[OWASP Top 10](https://owasp.org/www-project-top-ten/)**: List of the 10 most critical web vulnerabilities.
 - **[Mitre ATT&CK](https://attack.mitre.org/)**: Framework describing the tactics and techniques used by attackers.
 - **[CVE](https://cve.mitre.org/)**: Catalog of known security vulnerabilities.
+
+---
+
+# 🧩 Browser Extensions 
 
 ---
 
