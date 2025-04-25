@@ -2,9 +2,22 @@
 This repository contains a list of links to different web tools useful for cybersecurity, it is organized by categories for greater accessibility.
 
 ---
+| **🛡️ Blue Team**                  | **🐉 Red Team**                           | **🧩 Browser Extensions** |
+| ---------------------------------- | ----------------------------------------- | ------------------------- |
+| 🔍 URL Scanning                    | 🎯 Web Enumeration and Reconnaissance     |                           |
+| 🔎 IP Scanning                     | 📚 Knowledge Bases & Cheatsheets          |                           |
+| 📝 File Scanning                   | 🃏 Data Analysis and Transformation Tools |                           |
+| 📦 Sandboxing                      | 🔑 Token & Auth Analysis Tools            |                           |
+| 🔐 Password Scanning               | 🔐 Web Security Configuration             |                           |
+| 🛡️ Vulnerability Management Tools | 💥 Exploits and Vulnerabilities           |                           |
+| 🦠 Malware Samples                 |                                           |                           |
+| 📧 Email Protection                |                                           |                           |
+| 🌐 Web Security                    |                                           |                           |
+
+---
 
 ## 📋Table of Contents
-### [🛡️Blue Team](#%EF%B8%8Fblue-team-1)
+
 - [🔍URL Scanning](#url-scanning)
 - [🔎IP Scanning](#ip-scanning)
 - [📝File Scanning](#file-scanning)
