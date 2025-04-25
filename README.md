@@ -5,6 +5,7 @@ This repository contains a list of links to different web tools useful for cyber
 
 ## 📋Table of Contents
 
+### [🛡️Blue Team](#%EF%B8%8Fblue-team-1)
 - [🔍URL Scanning](#url-scanning)
 - [🔎IP Scanning](#ip-scanning)
 - [📝File Scanning](#file-scanning)
