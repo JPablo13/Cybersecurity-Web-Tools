@@ -11,7 +11,7 @@ This repository contains a list of links to different web tools useful for cyber
 - [📝File Scanning](#file-scanning)
 - [📦Sandboxing](#sandboxing)
 - [🔐Password Scanning](#password-scanning)
-- [🛡️Vulnerability Management Tools](#%EF%B8%8Fvulnerability-management-tools)
+- [🛡️Vulnerability Management](#%EF%B8%8Fvulnerability-management)
 - [🦠Malware Samples](#malware-samples)
 - [📧Email Protection](#email-protection)
 - [🌐Web Security](#web-security)
@@ -19,12 +19,15 @@ This repository contains a list of links to different web tools useful for cyber
 ### [🐉Red Team](#red-team-1)
 - [🎯Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
 - [📚Knowledge Bases & Cheatsheets](#knowledge-bases--cheatsheets)
-- [🃏Data Analysis and Transformation Tools](#data-analysis-and-transformation-tools)
+- [🃏Data Analysis and Transformation](#data-analysis-and-transformation)
 - [🔑Token & Auth Analysis Tools](#token--auth-analysis-tools)
 - [🔐Web Security Configuration](#web-security-configuration)
 - [💥Exploits and Vulnerabilities](#exploits-and-vulnerabilities)
 
-### 🧩 Browser Extensions 
+### [🧩Browser Extensions](#-browser-extensions)
+- [🛡️Privacy & Protection](#%EF%B8%8Fprivacy--protection)
+- [🧪Pentesting, OSINT & Web Analysis](#pentesting-osint--web-analysis)
+- [🍪Cookies & Headers](#cookies--headers)
 ---
 
 # 🛡️Blue Team
@@ -64,7 +67,8 @@ This repository contains a list of links to different web tools useful for cyber
 * **[Password checker Kaspersky](https://password.kaspersky.com/)**: Checks the strength of a password and if it has been compromised.
 * **[Dehashed](https://dehashed.com/)**: Search engine for leaked data, helps verify the exposure of sensitive information.
 
-## 🛡️Vulnerability Management Tools
+## 🛡️Vulnerability Management
+
 - **[VulnCheck Tools](https://vulncheck.com/tools)**: Fast CVE lookups and exploit data.
 - **[CVE Details](https://www.cvedetails.com/)**: Comprehensive CVE database with vendor/product filters.
 - **[NVD – National Vulnerability Database](https://nvd.nist.gov/)**: Official U.S. government source for CVEs and severity metrics.
@@ -105,12 +109,13 @@ This repository contains a list of links to different web tools useful for cyber
 - **[Pentestmonkey](https://pentestmonkey.net/)**: Tips, payloads, and cheat sheets for web exploitation and post-exploitation.
 - **[PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)**: Collection of payloads and techniques for web, network, and privilege escalation attacks.
   
-## 🃏Data Analysis and Transformation Tools
+## 🃏Data Analysis and Transformation
 
 - **[CyberChef](https://gchq.github.io/CyberChef/)**: Versatile web tool for data encoding, encryption, and transformation.
 - **[Regex101](https://regex101.com/)**: It is an online tool for testing and debugging regular expressions with instant feedback.
 
 ## 🔑Token & Auth Analysis Tools
+
 - **[JWT.IO](https://jwt.io/)**: Decodes, verifies, and generates JSON web tokens.
 - **[Token Inspector](https://token.dev/)**: Platform for inspecting and visualizing JWT, JWE, JWK and JWS tokens.
 - **[Base64 Decode & Encode](https://www.base64decode.org/)**: Simple tool to decode or encode base64.
@@ -131,6 +136,36 @@ This repository contains a list of links to different web tools useful for cyber
 ---
 
 # 🧩 Browser Extensions 
+
+## 🛡️Privacy & Protection
+
+- **[Privacy Badger](https://addons.mozilla.org/en/firefox/addon/privacy-badger17/)**: Blocks invisible trackers and enhances user privacy during browsing.
+- **[uBlock Origin](https://addons.mozilla.org/en/firefox/addon/ublock-origin/)**: Efficient content blocker that filters ads, malicious scripts, and trackers.
+- **[ClearURLs](https://addons.mozilla.org/en/firefox/addon/clearurls/)**: Removes tracking elements from URLs to avoid activity profiling.
+- **[I Don't Care About Cookies](https://addons.mozilla.org/en/firefox/addon/iadcaa/)**: Hides or auto-accepts cookie notices on supported websites.
+- **[WebRTC Leak Shield](https://addons.mozilla.org/en/firefox/addon/webrtc-leak-shield/)**: Prevents IP leaks through WebRTC—essential when using VPNs or proxies.
+- **[HTTPS Always (formerly HTTPS Everywhere)](https://addons.mozilla.org/en/firefox/addon/https-always/)**: Forces secure HTTPS connections when available.
+
+## 🧪Pentesting, OSINT & Web Analysis
+
+- **[Wappalyzer](https://addons.mozilla.org/en/firefox/addon/wappalyzer/)**: Identifies technologies used on websites (CMS, frameworks, web servers, etc.).
+- **[Shodan](https://addons.mozilla.org/en/firefox/addon/shodan_io/)**: Allows quick queries to Shodan about the website, IP, or device you're visiting.
+- **[HackTools](https://addons.mozilla.org/en/firefox/addon/hacktools/)**: Pentesting toolbox with payloads, encoding tools, hash generators, etc.
+- **[User-Agent Switcher and Manager](https://addons.mozilla.org/en/firefox/addon/user-agent-string-switcher/)**: Emulates various browsers and devices by changing the User-Agent header.
+- **[FoxyProxy Standard](https://addons.mozilla.org/en/firefox/addon/foxyproxy-standard/)**: Proxy manager with advanced rules, ideal for Burp Suite, TOR, or multi-proxy setups.
+- **[Retire.js](https://addons.mozilla.org/en/firefox/addon/retire-js/)**: Scans websites for vulnerable JavaScript libraries in real-time.
+- **[DotGit](https://addons.mozilla.org/en/firefox/addon/dotgit/)**: Detects exposed `.git` directories, commonly misconfigured in web deployments.
+- **[Link Gopher](https://addons.mozilla.org/en/firefox/addon/link-gopher/)**: Extracts and lists all links from a webpage—great for passive recon or scraping.
+- **[FindSomething](https://addons.mozilla.org/en/firefox/addon/findsomething/)**: Enables advanced keyword and content searching (visible or hidden) within pages.
+- **[Temp Mail](https://addons.mozilla.org/en/firefox/addon/temp-mail-org/)**: Generates disposable email addresses to use in testing or account registration.
+- **[Hunter](https://addons.mozilla.org/en/firefox/addon/hunter/)**: Searches for email addresses tied to a specific domain—very effective for OSINT.
+- **[TWP - Translate Web Pages](https://addons.mozilla.org/en/firefox/addon/traductor-webpages/)**: Instantly translates full web pages—helpful for international OSINT or analysis.
+
+## 🍪Cookies & Headers
+
+- **[Cookie Editor](https://addons.mozilla.org/en/firefox/addon/cookie-editor/)**: Inspect, edit, export, and delete cookies in real-time—perfect for web app testing.
+- **[Live HTTP Headers](https://addons.mozilla.org/en/firefox/addon/live-http-headers/)**: Monitors all HTTP headers in live traffic, useful for debugging and recon.
+- **[ModHeader](https://addons.mozilla.org/en/firefox/addon/modheader-firefox/)** Allows modification of HTTP headers like `User-Agent`, `Referer`, `Origin`.
 
 ---
 
