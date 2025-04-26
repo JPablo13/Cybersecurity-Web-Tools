@@ -176,7 +176,8 @@ This repository contains a list of links to different web tools useful for cyber
 
 # 📬Contact
 If you have any questions, please feel free to contact me at:  
-🔗 **GitHub**: [https://github.com/JPablo13](https://github.com/JPablo13)  
-💼 **LinkedIn**: [www.linkedin.com/in/josé-pablo-mena-villalobos](https://www.linkedin.com/in/jpablo-villalobos/)  
-📧 **Email**: pablo13villalobos@gmail.com  
-📝**Medium**: [https://medium.com/@pablo13villalobos](https://medium.com/@pablo13villalobos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpablo-villalobos/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPablo13)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo13villalobos@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pablo13villalobos)
+
