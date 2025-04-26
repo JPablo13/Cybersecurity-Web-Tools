@@ -5,18 +5,29 @@ This repository contains a list of links to different web tools useful for cyber
 
 ## 📋Table of Contents
 
-| 🛡️ [Blue Team](#%EF%B8%8Fblue-team) | 🐉 [Red Team](#red-team) | 🧩 [Browser Extensions](#-browser-extensions) |
-|--------------------------------------|----------------------------|---------------------------------------------|
-| [🔍 URL Scanning](#url-scanning)     | [🎯 Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance) | [🛡️ Privacy & Protection](#%EF%B8%8Fprivacy--protection) |
-| [🔎 IP Scanning](#ip-scanning)       | [📚 Knowledge Bases & Cheatsheets](#knowledge-bases--cheatsheets) | [🧪 Pentesting, OSINT & Web Analysis](#pentesting-osint--web-analysis) |
-| [📝 File Scanning](#file-scanning)   | [🃏 Data Analysis and Transformation](#data-analysis-and-transformation) | [🍪 Cookies & Headers](#cookies--headers) |
-| [📦 Sandboxing](#sandboxing)         | [🔑 Token & Auth Analysis Tools](#token--auth-analysis-tools) |  |
-| [🔐 Password Scanning](#password-scanning) | [🔐 Web Security Configuration](#web-security-configuration) |  |
-| [🛡️ Vulnerability Management](#%EF%B8%8Fvulnerability-management) | [💥 Exploits and Vulnerabilities](#exploits-and-vulnerabilities) |  |
-| [🦠 Malware Samples](#malware-samples) |                            |  |
-| [📧 Email Protection](#email-protection) |                            |  |
-| [🌐 Web Security](#web-security)     |                            |  |
+### [🛡️Blue Team](#%EF%B8%8Fblue-team-1)
+- [🔍URL Scanning](#url-scanning)
+- [🔎IP Scanning](#ip-scanning)
+- [📝File Scanning](#file-scanning)
+- [📦Sandboxing](#sandboxing)
+- [🔐Password Scanning](#password-scanning)
+- [🛡️Vulnerability Management](#%EF%B8%8Fvulnerability-management)
+- [🦠Malware Samples](#malware-samples)
+- [📧Email Protection](#email-protection)
+- [🌐Web Security](#web-security)
+  
+### [🐉Red Team](#red-team-1)
+- [🎯Web Enumeration and Reconnaissance](#web-enumeration-and-reconnaissance)
+- [📚Knowledge Bases & Cheatsheets](#knowledge-bases--cheatsheets)
+- [🃏Data Analysis and Transformation](#data-analysis-and-transformation)
+- [🔑Token & Auth Analysis Tools](#token--auth-analysis-tools)
+- [🔐Web Security Configuration](#web-security-configuration)
+- [💥Exploits and Vulnerabilities](#exploits-and-vulnerabilities)
 
+### [🧩Browser Extensions](#-browser-extensions)
+- [🛡️Privacy & Protection](#%EF%B8%8Fprivacy--protection)
+- [🧪Pentesting, OSINT & Web Analysis](#pentesting-osint--web-analysis)
+- [🍪Cookies & Headers](#cookies--headers)
 
 ---
 
